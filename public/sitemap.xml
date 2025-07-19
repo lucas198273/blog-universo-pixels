@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Página inicial -->
+  <url>
+    <loc>https://universopixels.blog/</loc>
+    <lastmod>2025-07-19</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Página Sobre -->
+  <url>
+    <loc>https://universopixels.blog/blog</loc>
+    <lastmod>2025-07-19</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Página de Contato -->
+  <url>
+    <loc>https://universopixels.blog/brindes</loc>
+    <lastmod>2025-07-19</lastmod>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Categorias principais do blog -->
+  <url>
+    <loc>https://universopixels.blog/produtos</loc>
+    <lastmod>2025-07-19</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+
+  <!-- Um exemplo de post individual -->
+  <url>
+    <loc>https://universopixels.blog/posts/lost-in-random-the-eternal-die-review</loc>
+    <lastmod>2025-07-17</lastmod>
+    <priority>0.9</priority>
+  </url>  
+  <url>
+    <loc>https://universopixels.blog/posts/zelda-tears-kingdom-guia-inicio</loc>
+    <lastmod>2025-07-17</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://universopixels.blog/posts/assassins-creed-shadows-guia-iniciante</loc>
+    <lastmod>2025-07-17</lastmod>
+    <priority>0.9</priority>
+  </url> 
+  <url>
+    <loc>https://universopixels.blog/posts/monster-hunter-wilds-guia-estrategico</loc>
+    <lastmod>2025-07-17</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+</urlset>
